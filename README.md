@@ -9,7 +9,9 @@ Fashion-Style-Generator using CycleGAN
 
 ### 🔭 Work
 + 실제 예시
+  
 <img src="https://github.com/DanielPark827/PyTorch-CycleGAN-master/assets/59303671/f971ee3c-93fc-4e26-9a26-b1e6340564ad.png" width="400" height="200"/>
+
 + DataLoader 구현
 + CycleGAN을 본 프로젝트에 deploy
 + 학습된 모델을 PyQt 형태의 애플리케이션으로 제작하여 실제 시연까지 진행
